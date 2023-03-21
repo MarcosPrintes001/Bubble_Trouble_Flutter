@@ -1,4 +1,4 @@
-# tetris
+# Bubble Trouble
 
 A new Flutter project.
 
